@@ -1,0 +1,188 @@
+name: thought_factory
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  provider: ^5.0.0
+  font_awesome_flutter: ^8.4.0
+  cached_network_image: 2.0.0-rc
+  #get_it:
+  rxdart: ^0.22.0
+  http: ^0.12.0+2
+  google_sign_in: ^4.0.1+1
+  logger: ^0.6.0
+  flushbar: ^1.10.4
+  modal_progress_hud: ^0.1.3
+  shared_preferences: ^0.5.3+4
+  connectivity: ^0.4.3+7
+  dots_indicator: ^1.0.0
+  flutter_html: ^0.8.2
+  intl: ^0.16.0
+  url_launcher: ^5.1.4
+  dio: ^3.0.4
+  sms_otp_auto_verify: ^1.2.2
+  custom_timer: ^0.0.3
+  toast: ^0.1.5
+  flutter_range_slider: ^1.4.0
+  image_picker: ^0.6.0+17
+  share: ^0.6.3+5
+  auto_size_text: ^2.1.0
+  mask_text_input_formatter: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.4"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/round_app_icon_e_bazzar.png"
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    #- images/bg_splash_screen.png
+    - assets/logo_thought_factory.png
+    - assets/cart_empty_image.png
+    - assets/discover.png
+    - assets/american_express.png
+    - assets/master_card.png
+    - assets/visa.png
+    - assets/citrus_logo.png
+    - assets/cancel_order_popup_dialog_image.png
+    - assets/person_image_place_holder.png
+    - assets/category_clothing.png
+    - assets/category_electronic.png
+    - assets/category_watches.png
+    - assets/category_beauty.png
+    - assets/category_shoes.png
+    - assets/dummy_face_cream.png
+    - assets/dummy_kettle.png
+    - assets/dummy_laptop.png
+    - assets/dummy_perfume.png
+    - assets/dummy_refrigerator.png
+    - assets/dummy_t_shirt.png
+    - assets/dummy_watch.png
+    - assets/dummy_womens_clothing.png
+    - assets/dummy_shoe_addidas.png
+    - assets/dristributor_1_b2x.png
+    - assets/dristributor_2_dc.png
+    - assets/dristributor_3_central.png
+    - assets/dristributor_4_addidas.png
+    - assets/dristributor_5_logistics.png
+    - assets/dristributor_6_masonite.png
+    - assets/dristributor_7_odyssey.png
+    - assets/dristributor_8_puma.png
+    - assets/dristributor_9_reebok.png
+    - assets/dristributor_10_sea_corp.png
+    - assets/dristributor_11_rahein.png
+    - assets/round_app_icon_e_bazzar.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
+  fonts:
+    - family: CustomIcon
+      fonts:
+        - asset: fonts/CustomIcon.ttf
+
+#    - family: Gotham
+#      fonts:
+#        - asset: fonts/Gotham-Light.otf
+#          weight: 300
+#        - asset: fonts/Gotham-LightIta.otf
+#          weight: 300
+#          style: italic
+#        - asset: fonts/Gotham-Book.otf
+#          weight: 400
+#        - asset: fonts/Gotham-Bold.otf
+#          weight: 700
+#        - asset: fonts/Gotham-Medium.otf
+#          weight: 500
+#        - asset: fonts/Gotham-MediumIta.otf
+#          weight: 500
+#          style: italic
+#        - asset: fonts/Gotham-Thin.otf
+#          weight: 100
+#        - asset: fonts/Gotham-XLight.otf
+#          weight: 200
+#        - asset: fonts/Gotham-XLightIta.otf
+#          weight: 200
+#          style: italic
+
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Light.ttf
+          weight: 300
+        - asset: fonts/Montserrat-Regular.ttf
+          weight: 400
+        - asset: fonts/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: fonts/Montserrat-Bold.ttf
+          weight: 700
+        - asset: fonts/Montserrat-ExtraBold.ttf
+          weight: 800
+        - asset: fonts/Montserrat-Black.ttf
+          weight: 900
+        - asset: fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: fonts/Montserrat-Thin.ttf
+          weight: 100
+        - asset: fonts/Montserrat-ExtraLight.ttf
+          weight: 200
+
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages

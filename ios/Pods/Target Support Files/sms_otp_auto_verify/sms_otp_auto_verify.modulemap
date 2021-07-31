@@ -1,0 +1,6 @@
+framework module sms_otp_auto_verify {
+  umbrella header "sms_otp_auto_verify-umbrella.h"
+
+  export *
+  module * { export * }
+}

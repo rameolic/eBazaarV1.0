@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b5953396e8592126f568aacbed52c45a/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b5953396e8592126f568aacbed52c45a/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b5953396e8592126f568aacbed52c45a/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

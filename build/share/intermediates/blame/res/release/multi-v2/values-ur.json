@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/share/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.3.1.aar/baa17982195bc48f07e7c83eb8f40ee2/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/share/intermediates/res/merged/release/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.3.1.aar/baa17982195bc48f07e7c83eb8f40ee2/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

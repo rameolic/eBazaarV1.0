@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sqflite/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sqflite/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sqflite/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sqflite/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

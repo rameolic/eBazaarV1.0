@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/8778c15864c0d7222ace4055f04f2ce5/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-1/files-1.1/play-services-base-17.1.0.aar/2059fdf38e1527685d10725923f742e6/res/drawable/common_google_signin_btn_text_disabled.xml"
+    }
+]

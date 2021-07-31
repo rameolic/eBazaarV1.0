@@ -1,0 +1,4 @@
+#Sat Jul 31 11:06:45 IST 2021
+base.0=/Users/ttf/Downloads/ThoughtFactory Mobile/colan_thought_factory 5/build/app/intermediates/transforms/r8/release/0
+path.0=classes.dex
+renamed.0=classes.dex
